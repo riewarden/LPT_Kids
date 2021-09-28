@@ -44,7 +44,7 @@ No?
 <<linkreplace "Tap to continue." t8n>>
 That’s ok. In fact, that’s completely normal. Charts, and facts, and figures are often the way we see Climate Change represented. But humans are not computers. We can’t just eat numbers, and then do what the numbers say we should do. 
 <<linkreplace "Tap to continue." t8n>>
-Humans do things because we are driven by emotions. When we are given lots of information that tells us a lot of stressful and horrible things, we tend to shut it out. Otherwise, we’d probably be crying, every second of every day.
+Humans do things because we are driven by emotions. When we are given lots of information that tells us a lot of stressful and horrible things, we tend to shut it out. Otherwise, we’d probably all be crying, every second of every day.
 
 This is where art, and in our case, music, can help us.
 
@@ -106,6 +106,7 @@ If you decide these things before starting, you won't accidentally start too hig
 <nobr><<cacheaudio "sea" "audio/sea_atmos.mp3">></nobr>Time to make music from data. Tap the buttons below to play some atmospheric noise, to accompany the piece, and get you in the mood:
 @@.altlinks;<<link "Play audio">><<audio sea play loop>><</link>>
 <<link "Pause audio">><<audio sea pause>><</link>>@@
+
 <<linkreplace "Tap to continue." t8n>>
  <img src="img/edited_SeaIce.png" width="90%">
 
@@ -117,16 +118,24 @@ Then, when you reach 1984, play the chord in your left hand again, and play the 
 
 Keep going, until you reach the end of the chart.
 <<linkreplace "I've finished." t8n>>
-Take a moment to think about how the music connected with the data, and what emotions may have arisen. If you didn’t feel anything, that’s alright too.
+Take a moment to think about how you felt before you started playing, and how you feel, now that you've finished. Also, think about the following questions:
 
+# When was the piece easiest to play?
+# Apart from the pitch of the notes, what else changes about the music, as time goes on?
+# If you didn't know this music was inspired by a chart on Climate Change, what might you think it was about, instead?
 [[Tap to finish, and find out more.|climend]]
 <</linkreplace>><</linkreplace>>
 :: climend
 This tutorial was inspired by the work of Judy Twedt. She is a climate scientist whose whole job is to turn climate data into music, to make it easier for people to empathise with the scale of the climate crisis.
 
 Listen to her talk about her work here:
--	TED Talk: https://www.youtube.com/watch?v=eYXxAE5grRQ&t=5s
--	Making Music From Data: https://www.youtube.com/watch?v=PnvvBWvqvG0
--	Translating Climate Data Into Art: https://www.youtube.com/watch?v=3tEWmI_qblo
- NASA Climate Change Resources
+[[Judy Twedt: TED Talk|https://www.youtube.com/watch?v=eYXxAE5grRQ&t=5s]]
+[[Making Music From Data|https://www.youtube.com/watch?v=PnvvBWvqvG0]]
+[[Translating Climate Data Into Art|https://www.youtube.com/watch?v=3tEWmI_qblo]]
+
+
+And, you can learn more about Climate Change from NASA, here:
+[[Evidence of Climate Change|https://climate.nasa.gov/evidence/]]
+[[Arctic Sea Ice Minimum|https://climate.nasa.gov/vital-signs/arctic-sea-ice/]]
+
 
